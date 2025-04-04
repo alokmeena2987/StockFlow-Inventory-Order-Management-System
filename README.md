@@ -1,6 +1,6 @@
 # StockFlow - Inventory & Order Management System
 
-StockFlow is a comprehensive inventory and order management system developed by Cloobot. It provides businesses with a modern, efficient solution for managing their inventory, orders, and business operations.
+StockFlow is a comprehensive inventory and order management system developed. It provides businesses with a modern, efficient solution for managing their inventory, orders, and business operations.
 
 ## Features
 
